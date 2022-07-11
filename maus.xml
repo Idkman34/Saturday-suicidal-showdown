@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="unhappymouse_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Maus Down0000" x="5" y="5" width="670" height="722"/>
+	<SubTexture name="Maus Down0001" x="685" y="5" width="670" height="722"/>
+	<SubTexture name="Maus Down0002" x="1365" y="5" width="670" height="722"/>
+	<SubTexture name="Maus Down0003" x="2045" y="5" width="670" height="722"/>
+	<SubTexture name="Maus Down0004" x="2725" y="5" width="670" height="722"/>
+	<SubTexture name="Maus Down0005" x="3405" y="5" width="670" height="722"/>
+	<SubTexture name="Maus Idle0000" x="5" y="737" width="670" height="722"/>
+	<SubTexture name="Maus Idle0001" x="685" y="737" width="670" height="722"/>
+	<SubTexture name="Maus Idle0002" x="1365" y="737" width="670" height="722"/>
+	<SubTexture name="Maus Idle0003" x="2045" y="737" width="670" height="722"/>
+	<SubTexture name="Maus Idle0004" x="2725" y="737" width="670" height="722"/>
+	<SubTexture name="Maus Idle0005" x="3405" y="737" width="670" height="722"/>
+	<SubTexture name="Maus Idle0006" x="5" y="1469" width="670" height="722"/>
+	<SubTexture name="Maus Idle0007" x="685" y="1469" width="670" height="722"/>
+	<SubTexture name="Maus Idle0008" x="1365" y="1469" width="670" height="722"/>
+	<SubTexture name="Maus Idle0009" x="2045" y="1469" width="670" height="722"/>
+	<SubTexture name="Maus Idle0010" x="2725" y="1469" width="670" height="722"/>
+	<SubTexture name="Maus Idle0011" x="3405" y="1469" width="670" height="722"/>
+	<SubTexture name="Maus Idle0012" x="5" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Idle0013" x="5" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Idle0014" x="5" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Idle0015" x="5" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Idle0016" x="5" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Left0000" x="685" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Left0001" x="1365" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Left0002" x="2045" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Left0003" x="2725" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Left0004" x="3405" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Left0005" x="5" y="2933" width="670" height="722"/>
+	<SubTexture name="Maus Right0000" x="685" y="2933" width="670" height="722"/>
+	<SubTexture name="Maus Right0001" x="1365" y="2933" width="670" height="722"/>
+	<SubTexture name="Maus Right0002" x="2045" y="2933" width="670" height="722"/>
+	<SubTexture name="Maus Right0003" x="2725" y="2933" width="670" height="722"/>
+	<SubTexture name="Maus Right0004" x="3405" y="2933" width="670" height="722"/>
+	<SubTexture name="Maus Right0005" x="4085" y="5" width="670" height="722"/>
+	<SubTexture name="Maus Up0000" x="4085" y="737" width="670" height="722"/>
+	<SubTexture name="Maus Up0001" x="4085" y="1469" width="670" height="722"/>
+	<SubTexture name="Maus Up0002" x="4085" y="2201" width="670" height="722"/>
+	<SubTexture name="Maus Up0003" x="4085" y="2933" width="670" height="722"/>
+	<SubTexture name="Maus Up0004" x="5" y="3665" width="670" height="722"/>
+	<SubTexture name="Maus Up0005" x="685" y="3665" width="670" height="722"/>
+</TextureAtlas>
